@@ -8,9 +8,12 @@
         "HSZL",
         "JVVT",
         "NBVN",
+        "persistor",
         "RTDM",
         "RTL's",
         "vifw",
+        "webfonts",
         "ZYIN"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
