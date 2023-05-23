@@ -8,4 +8,4 @@ While the website is preparing each store for you to visit, it shows you a "Spin
 
 Finally, the "GlobalStyle" is like the general decor of the mall, setting the look and feel throughout the website to make it a pleasant experience for you.
 
-Everything works smoothly, just keep in mind to update the stripe.js file with the API of your actual Stripe account so it works like charm.
+Everything runs smoothly, just keep in mind to update the stripe.js file with the API of your actual Stripe account so it works like charm.
